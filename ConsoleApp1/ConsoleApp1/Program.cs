@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Globalization;
 using System.Text;
 
 namespace ConsoleApp1
@@ -8,7 +9,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Test");
+           // Console.WriteLine("Hello World! Test");
 
             string myString = "Hello";
             string myNextString = "World";
@@ -31,12 +32,12 @@ namespace ConsoleApp1
 
             stopWatch.Start();
 
-            for (int i = 0; i < 100000; i++)
+         /*   for (int i = 0; i < 100000; i++)
             {
 
                 myString += i;
 
-            }
+            } */
 
             stopWatch.Stop();
             Console.WriteLine(stopWatch.Elapsed);
@@ -46,14 +47,37 @@ namespace ConsoleApp1
 
             StringBuilder builder = new StringBuilder();
             builder.Append(myString);
-            for(int i = 0; i < 100000; i++)
+          /*  for(int i = 0; i < 100000; i++)
             {
                 builder.Append(i);
-            }
+            } */
 
             stopWatch1.Stop();
-            Console.WriteLine("For stringBuilder = " + stopWatch1.Elapsed);
+           // Console.WriteLine("For stringBuilder = " + stopWatch1.Elapsed);
 
+            string myString2 = "This is an awesome string";
+
+            int indexOfThis = myString2.IndexOf("This");
+            int lastIndexOf = myString2.LastIndexOf("This");
+
+            string path = "C:/Program Files/Windows";
+            string programFiles = path.Substring(3, 12);
+            string res = path.Substring(3);
+
+
+            var splitted = path.Split('/');
+
+            int awesomeInt = 1343253234;
+
+            CultureInfo culture = new CultureInfo("tr-TR");
+            string awesomeIntCulture = awesomeInt.ToString("C", culture);
+
+            int oldInt = int.Parse(awesomeIntCulture, culture);
+
+            int parsed = 0;
+
+            bool success = int.TryParse(awesomeIntCulture, out parsed);
+            
         }
     }
 }

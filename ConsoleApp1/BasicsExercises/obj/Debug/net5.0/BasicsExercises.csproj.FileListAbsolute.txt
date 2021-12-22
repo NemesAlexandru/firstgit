@@ -1,0 +1,16 @@
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\bin\Debug\net5.0\BasicsExercises.exe
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\bin\Debug\net5.0\BasicsExercises.deps.json
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\bin\Debug\net5.0\BasicsExercises.runtimeconfig.json
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\bin\Debug\net5.0\BasicsExercises.runtimeconfig.dev.json
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\bin\Debug\net5.0\BasicsExercises.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\bin\Debug\net5.0\ref\BasicsExercises.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\bin\Debug\net5.0\BasicsExercises.pdb
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.csproj.AssemblyReference.cache
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.AssemblyInfoInputs.cache
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.AssemblyInfo.cs
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.csproj.CoreCompileInputs.cache
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\ref\BasicsExercises.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.pdb
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\BasicsExercises\obj\Debug\net5.0\BasicsExercises.genruntimeconfig.cache

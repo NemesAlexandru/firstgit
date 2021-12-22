@@ -1,0 +1,16 @@
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
+C:\Users\nemesa3\source\repos\GIT\firstgit\ConsoleApp1\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
